@@ -1,5 +1,5 @@
 module.exports = {
-  port: 1337,
+  port: 80,
   debug: false,
   site: {
     "url": "http://youzhihu.com/",
@@ -30,12 +30,12 @@ module.exports = {
       "link": "/date"
     }
   ],
-  cdn: '',
-  domain: 'http://7xji3k.com1.z0.glb.clouddn.com/',
+  cdn: 'http://www.izhihu.net/',
+  domain: 'http://7xjjyj.com1.z0.glb.clouddn.com',
 	qiniu: {
     ACCESS_KEY: 'yrYrw_dBLGHGlzdjcydUN-0_xRR-n95zkIC8ANbR',
     SECRET_KEY: '4aijHwjKXB20z40SaexGR2k4l9EGQOI6EWvZh7_2',
-    buckname: 'douban',
-    domain: 'http://7xji3k.com1.z0.glb.clouddn.com/'
+    buckname: 'zhihu',
+    domain: 'http://7xjjyj.com1.z0.glb.clouddn.com/'
   }
 };
