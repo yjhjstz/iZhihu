@@ -4,7 +4,7 @@ module.exports = {
   site: {
     "url": "http://youzhihu.com/",
     "author": "nihgwu",
-    "author_url": "http://liteneo.com",
+    "author_url": "yjhjstz#163.com",
     "source": "知乎日报",
     "source_url": "http://daily.zhihu.com",
     "name": "爱知乎",
