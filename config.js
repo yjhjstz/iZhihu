@@ -31,12 +31,12 @@ module.exports = {
     }
   ],
   cdn: '',
-  domain: 'http://7xjjyj.com1.z0.glb.clouddn.com',
-	qiniu: {
+  domain: 'http://7xjp92.com1.z0.glb.clouddn.com',
+  qiniu: {
     ACCESS_KEY: 'yrYrw_dBLGHGlzdjcydUN-0_xRR-n95zkIC8ANbR',
     SECRET_KEY: '4aijHwjKXB20z40SaexGR2k4l9EGQOI6EWvZh7_2',
     buckname: 'zhihu',
-    domain: 'http://7xjjyj.com1.z0.glb.clouddn.com/'
+    domain: 'http://7xjp92.com1.z0.glb.clouddn.com/'
   },
   redis_host: "127.0.0.1",
   redis_port: "6379",
