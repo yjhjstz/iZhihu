@@ -1,14 +1,16 @@
+
+
 ## [iZhihu](http://youzhihu.com)
 
 Zhihudaily powered by Node.js
 
-Check out [my blogs](http://liteneo.com/tags/%E7%88%B1%E7%9F%A5%E4%B9%8E/) for more details
+Check out [my blogs](http://liteneo.com/tags/%E7%88%B1%E7%9F%A5%E4%B9%8C/) for more details
 
 How to deploy
 
 ``` bash
 # clone from git
-$ git clone https://github.com/nihgwu/iZhihu.git
+$ git clone https://github.com/yjhjstz/iZhihu.git
 
 # install dependencies
 $ cd iZhihu && npm install
